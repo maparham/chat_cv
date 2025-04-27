@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>My Interactive CV</title>
+</head>
+<body class="bg-gray-100">
+
+
+<!-- Flex container to arrange the PDF and React root side by side -->
+<div class="flex mb-4">
+
+    <!-- PDF Embed (50% width) -->
+    <div class="w-1/2 p-4">
+        <embed
+                src="/CV_Mahan_Parham.pdf"
+                type="application/pdf"
+                width="100%"
+                height="100%"
+        />
+    </div>
+
+    <!-- React App (50% width) -->
+    <div class="w-1/2 p-4">
+        <div id="root"></div>
+    </div>
+
+</div>
+
+
+<script type="module" src="/src/main.jsx"></script>
+
+</body>
+</html>

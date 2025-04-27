@@ -1,0 +1,63 @@
+Mahan Parham
+
+May 2025
+
+Introduction
+• maparham40@gmail.com
+• Born in 1985, Iranian, Persian, passport name: Mahmoud Parham
+• Permanent resident of Austria (Daueraufenhalt-EU)
+• PhD in Computer Science (networks and learning algorithms)
+• Resident in Vienna
+• https://maparham.github.io
+
+Work and Education
+• November 2023–June 2025. IMS Nanofabrication, Python, Test Software Developer,
+ETL pipeline, Pytest, Polars, Numpy, Mongodb, Influxdb, Grafana, Docker, HPC etc.
+• September 2022–July 2023. Salzburg Research Forschungsgesellschaft mbH, Research Developer, distrubuted energy management system, Python, Docker, RestAPI, FastAPI, OpenAPI, Grafana, InfluxDB
+• May 2022–August 2022. Software Developer, Parity Quantum Computing GmbH, Innsbruck, Python, SOLID principles, contributed to a QC compiler prototype, left early
+because of the offer from SRFG
+• March 2018–December 2022. PhD: Doktoratsstudium der technischen Wissenschaften, University of Vienna, supervised by Prof. Stefan Schmid, Thesis: Algorithms for Traffic Control Challenges in Softwarized Networks 
+
+• May 2017–February 2018. PhD Fellow in Computer Science, Aalborg University, Denmark,
+Supervisor: Stefan Schmid (continued in Austria)
+• February 2014–October 2015. Backend Developer, Doc Cirrus GmbH 2, Berlin, Germany,
+Role: developed backend services for a distributed medical office: Node.js, Javascript
+RestAPI, MongoDB, JQuery, Socket.io,...
+• 2010–2012. MSc in Computer Science, Sharif University 3, Tehran, numerous part-time dev
+jobs in the meanehile, Java, C++, C#, Javascript etc.
+• 2004–2009. BSc in Informatics, Kharazmi University 4, Tehran, Iran, numerous part-time
+dev jobs in the meanehile, Java, C++, C#, Javascript etc.
+Tools and Concepts
+• Python (advanced), C++1x (intermediate), Javascript, Node.js, Bash
+• Pandas, Polars, Numpy, Mongodb, Influxdb, Docker, Grafana, (No)SQL
+• Pycharm, IntelliJ IDEA, Pycharm, VSCode, LATEX, Office tools, Linux, MacOS
+• Asynchronous programming, concurrency, multi threading, parallel computing
+• OOD, SOLID, Design Patterns, TDD, UML, Agile, Scrum, Jira, Gerrit, layered design, MVC
+• Algorithms, Data Structures, combinatorial optimization, Machine learning basics
+• Fluent English, Intermediate Deutsch (B1)
+
+Motivational
+I see myself as a natural developer and problem solver with above average capabilities, strong
+intuition, good grasp of fundamentals, and a practical sense for code and design smell. I started
+programming for a living two decades ago when I was a bachelor student in Tehran while going
+through a tough student life. The more professional agile experience started with the Berlin job
+(backend Node.js) which was my first time away from home and in Europe. At some point my
+passion and respect for theoretical computer science inspired me to do a PhD. It was satisfying
+although pragmatically foolish in retrospect. Afterward, I decided to go back to the dev industry
+and earn more salary and further practical experience. Passion for genuine science work doesn’t
+pay the rent.
+
+What I’m offering?
+• strong implementation experties and technical senses
+• solid fundation in CS, mathematics, physics, and SE
+• flexible adaptive mindset (shockingly rare in Europe)
+• diverse techincal backround: from scentific to web developement
+• advanced English and technical writing skills
+• eager to learn new tools and concepts quickly on demand
+• passion for clean and accurate code, and for clean logical design
+
+Expectations
+I’d like to work with a flexible, creative, ambitious, respeceful team, ideally a truely international
+one with diverse experience. Above all, I value a healthy goal-oriented culture. I need a job that is
+mentally engaging. My expected salary starts at 60k. The exact number depends on job details,
+office conditions, homeoffice/remote possibility etc.
