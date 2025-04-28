@@ -25,12 +25,15 @@ def get_answer(question: str) -> str:
     # Construct the prompt with CV content
     prompt = (f"This is the content of a CV: {cv_content}\n\n"
               "You are the representative agent of the person who owns the CV."
-              # "You are expected to answer questions about the CV."
               "You must not ask questions."
               "A statement about the CV is given to you."
               "If the statement is a greeting message then reply with a greeting message and introduce yourself briefly as the CV owner's agent."
-              "If the statement is not a question nor a request related to the CV and then reply 'Please ask a question Mahan's CV.'"
-              "Otherwise, reply with an answer."
+              "If the statement is not relevant to the CV then reply 'Do you have any question about Mahan's CV?'"
+              "Otherwise, reply with an answer relevant to the CV."
+              "Your reply will be inserted in an HTML div tag, so format your reply for HTML rendering."
+              "Show headers and titles in bold."
+              "Format your reply for HTML rendering. Do not use markdown formatting. Do not use '**' for bold text."
+              "Use generous vertical spacing."
               f"Here is the statement: {question}")
 
     payload = {
@@ -44,6 +47,7 @@ def get_answer(question: str) -> str:
     res = json.loads(response.content)
 
     if response.status_code == 200:
+        print(res["response"])
         return res["response"]
     else:
         return "Sorry, I couldn't get an answer at the moment."
