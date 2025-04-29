@@ -1,3 +1,8 @@
+Requirements
+- python 3.11+
+- npm
+- Ollam: http://localhost:11434 
+
 ```bash
 git clone git@github.com:maparham/chat_cv.git
 ```
