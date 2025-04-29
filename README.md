@@ -10,6 +10,7 @@ pip install -r requirements.txt
 uvicorn app:app
 ```
 
+In a second terminal:
 ```bash
 cd ../frontend
 npm install
