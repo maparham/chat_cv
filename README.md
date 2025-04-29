@@ -1,7 +1,9 @@
-Requirements
+## Requirements
 - python 3.11+
 - npm
 - [Ollama](https://ollama.com/) accessible via http://localhost:11434 
+
+## Setup
 
 ```bash
 git clone git@github.com:maparham/chat_cv.git
