@@ -9,9 +9,13 @@
 git clone git@github.com:maparham/chat_cv.git
 ```
 
+Assuming you have python3.13:
 ```bash
 cd chat_cv/backend
 python3.13 -m venv .venv
+```
+
+```bash
 source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn app:app
