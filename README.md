@@ -12,7 +12,7 @@ uvicorn app:app
 
 In a second terminal:
 ```bash
-cd ../frontend
+cd chat_cv/frontend
 npm install
 npm start dev
 ```
