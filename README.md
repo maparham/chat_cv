@@ -14,5 +14,5 @@ In a second terminal:
 ```bash
 cd chat_cv/frontend
 npm install
-npm start dev
+npm run dev
 ```
